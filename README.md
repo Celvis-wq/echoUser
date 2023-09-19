@@ -12,7 +12,7 @@
 
 ### How to use:
 - cd /Lesson
-- python3 ranking.py
+- python3 echoUser.py
 
 # Languages used:
 - Python
